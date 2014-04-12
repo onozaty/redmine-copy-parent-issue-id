@@ -8,6 +8,8 @@ Features
 
 Copy parent issue id, when a issue is copied.
 
+![Screenshot of the copy issue](screenshots/copy_issue.png)
+
 Installation
 ------------
 
