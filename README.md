@@ -18,6 +18,8 @@ Install the plugin in your Redmine plugins directory, clone this repository as `
     cd {RAILS_ROOT}/plugins
     git clone https://github.com/onozaty/redmine-copy-parent-issue-id.git copy_parent_issue_id
 
+**note: The directory name must be a `copy_parent_issue_id`. Directory name is different, it will fail to run the Plugin.**
+
 Supported versions
 ------------------
 
